@@ -1,0 +1,106 @@
+[
+  {
+    "name": "OPPO F21s Pro 5G",
+    "price": 245.67,
+    "description": "OPPO F21s Pro 5G is a powerful device with stunning camera and fast 5G connectivity. Features 64MP camera, 4500mAh battery, and 33W fast charging.",
+    "ratings": 4.5,
+    "images": [
+      { "image": "/images/products/1.jpg" },
+      { "image": "/images/products/2.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 5,
+    "numOfReviews": 0,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "name": "WRISTIO HD Bluetooth Calling Smart Watch",
+    "price": 150.32,
+    "description": "Minix watches are exclusively designed for fitness enthusiasts. Features HD display, Bluetooth calling, heart rate monitor, and 7-day battery life.",
+    "ratings": 3.5,
+    "images": [
+      { "image": "/images/products/2.jpg" }
+    ],
+    "category": "Accessories",
+    "seller": "Flipkart",
+    "stock": 9,
+    "numOfReviews": 0,
+    "createdAt": "2024-01-02T00:00:00.000Z"
+  },
+  {
+    "name": "Dell Inspiron 3511 Laptop",
+    "price": 440.57,
+    "description": "Dell Inspiron 3511 11th Generation Intel Core i5 processor, 8GB RAM, 512GB SSD, Windows 11, 15.6 inch FHD display. Perfect for work and study.",
+    "ratings": 4.2,
+    "images": [
+      { "image": "/images/products/3.jpg" },
+      { "image": "/images/products/4.jpg" }
+    ],
+    "category": "Laptops",
+    "seller": "Amazon",
+    "stock": 3,
+    "numOfReviews": 0,
+    "createdAt": "2024-01-03T00:00:00.000Z"
+  },
+  {
+    "name": "Sony WH-1000XM5 Headphones",
+    "price": 320.99,
+    "description": "Industry-leading noise canceling headphones with 30-hour battery life, multipoint connection, and crystal clear hands-free calling. Foldable design for easy carrying.",
+    "ratings": 4.8,
+    "images": [
+      { "image": "/images/products/5.jpg" },
+      { "image": "/images/products/6.jpg" }
+    ],
+    "category": "Accessories",
+    "seller": "Flipkart",
+    "stock": 12,
+    "numOfReviews": 0,
+    "createdAt": "2024-01-04T00:00:00.000Z"
+  },
+  {
+    "name": "Samsung 65 inch 4K Smart TV",
+    "price": 799.99,
+    "description": "Samsung Crystal 4K UHD Smart TV with Alexa built-in, Motion Xcelerator, Object Tracking Sound, and boundless design. Stunning picture quality for movies and gaming.",
+    "ratings": 4.6,
+    "images": [
+      { "image": "/images/products/7.jpg" },
+      { "image": "/images/products/8.jpg" }
+    ],
+    "category": "Electronics",
+    "seller": "Amazon",
+    "stock": 7,
+    "numOfReviews": 0,
+    "createdAt": "2024-01-05T00:00:00.000Z"
+  },
+  {
+    "name": "Nike Air Max 270 Shoes",
+    "price": 89.99,
+    "description": "Nike Air Max 270 features Nike's biggest heel Air unit for all-day comfort. Breathable mesh upper and foam midsole provide a lightweight, cushioned feel.",
+    "ratings": 4.3,
+    "images": [
+      { "image": "/images/products/9.jpg" },
+      { "image": "/images/products/10.jpg" }
+    ],
+    "category": "Footwear",
+    "seller": "Flipkart",
+    "stock": 20,
+    "numOfReviews": 0,
+    "createdAt": "2024-01-06T00:00:00.000Z"
+  },
+  {
+    "name": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
+    "price": 65.99,
+    "description": "7-in-1 multi-use programmable pressure cooker, slow cooker, rice cooker, steamer, saute pan, yogurt maker and warmer. 6 quart capacity, stainless steel.",
+    "ratings": 4.7,
+    "images": [
+      { "image": "/images/products/11.jpg" },
+      { "image": "/images/products/12.jpg" }
+    ],
+    "category": "Kitchen",
+    "seller": "Amazon",
+    "stock": 15,
+    "numOfReviews": 0,
+    "createdAt": "2024-01-07T00:00:00.000Z"
+  }
+]
