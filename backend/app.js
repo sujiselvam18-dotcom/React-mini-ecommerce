@@ -17,8 +17,8 @@ app.use(express.json());
 app.use(cors({
     origin: '*'  
 }));
-app.use('/api/v1/', products);
-app.use('/api/v1/', orders);
+app.use('/api/v1/products', products);
+app.use('/api/v1/orders', orders);
 
 app.listen(process.env.PORT, () => {
     console.log(`Server listening to Port ${process.env.PORT} in`);
